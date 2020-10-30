@@ -1,0 +1,6 @@
+[submodule "frame-development-node"]
+	path = frame-development-node
+	url = https://github.com/tonysun83/frame-development-node
+[submodule "front-end-frames-development"]
+	path = front-end-frames-development
+	url = https://github.com/tonysun83/front-end-frames-development
